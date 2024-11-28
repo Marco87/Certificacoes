@@ -6,7 +6,11 @@
 <summary><strong>Microsoft</strong></summary>
   <details>
     <summary><strong>AZ-900</strong></summary>
-    
+
+Esta prova avalia conhecimentos básicos sobre conceitos da computação em nuvem, principais serviços e configurações de preço, segurança e privacidade no ambiente da Azure. É recomendada para quem está começando a utilizar estes serviços.
+
+Seguem alguns links úteis para se preparar para a prova:
+
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
