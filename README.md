@@ -18,6 +18,14 @@
   </details>
   <details>
     <summary><strong>DP-900</strong></summary>
+
+[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+
+[Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/practice/assessment?assessment-type=practice&assessmentId=24&practice-assessment-type=certification)
+
+[Playlist do Canal da Cloud](https://www.youtube.com/watch?v=-znvy4pHy1Y&list=PLz3hnOImntANFctjp36UIk0tjX43UFJdy&ab_channel=CanaldaCloud)
+
+[Playlist do Canal do Henrique Eduardo](https://www.youtube.com/watch?v=Fqzx_87pFCg&list=PL_yq9hmeKAk9hc_FGAKHl-hI66GRjLa4P&ab_channel=HenriqueEduardoSouza)
   </details>
   <details>
     <summary><strong>DP-600</strong></summary>
