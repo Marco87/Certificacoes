@@ -1,1 +1,3 @@
-# Certifica-es
+# Certificações
+
+Repositório com dicas de certificações
