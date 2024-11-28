@@ -1,6 +1,6 @@
 # Certificações
 
-🎖️Repositório com dicas de certificações🎖️
+🎖️Repositório com dicas de estudo para certificações🎖️
 
 <details>
 <summary><strong>Microsoft</strong></summary>
