@@ -23,6 +23,10 @@ Seguem alguns links úteis para se preparar para a prova:
   <details>
     <summary><strong>DP-900</strong></summary>
 
+Esta prova certifica conhecimentos básicos sobre dados e conceitos de dados no Microsoft Azure, abordando bancos de dados relacionais, não relacionais, análises e workloads em nuvem.
+
+Seguem alguns links úteis para se preparar para a prova:
+
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/practice/assessment?assessment-type=practice&assessmentId=24&practice-assessment-type=certification)
