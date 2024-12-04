@@ -38,6 +38,10 @@ Seguem alguns links úteis para se preparar para a prova:
   <details>
     <summary><strong>DP-600</strong></summary>
 
+Esta prova certifica habilidades em implementar e gerenciar soluções de dados no Microsoft Fabric, abordando integração, análise, governança e segurança em uma plataforma unificada de análise de dados.
+
+Seguem alguns links úteis para a prova:
+
 [Acesse o Fabric](https://app.fabric.microsoft.com/)
 
 **Conteúdo**
