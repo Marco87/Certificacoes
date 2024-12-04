@@ -33,6 +33,13 @@ Seguem alguns links úteis para se preparar para a prova:
   </details>
   <details>
     <summary><strong>DP-600</strong></summary>
+    
+    [Acesse o Fabric](https://app.fabric.microsoft.com/)
+    
+    [Laboratório de exercícios](https://microsoftlearning.github.io/mslearn-fabric/)
+    
+    [Canal do Sidney Cerqueira](https://www.youtube.com/@SidneyCirqueira)
+    
   </details>
 </details>
 
