@@ -33,13 +33,32 @@ Seguem alguns links úteis para se preparar para a prova:
   </details>
   <details>
     <summary><strong>DP-600</strong></summary>
-    
+
 [Acesse o Fabric](https://app.fabric.microsoft.com/)
-    
+
+**Conteúdo**
+
+[Trilha da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification)
+
+[Notas sobre o Fabric](https://microsoft.github.io/fabricnotes/)
+
+
+**Simulados**
+
+[Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/exams/dp-600/practice/assessment?assessment-type=practice&assessmentId=90)
+
+[Examtopics](https://www.examtopics.com/exams/microsoft/dp-600/)
+
+**Exercícios**
+
 [Laboratório de exercícios](https://microsoftlearning.github.io/mslearn-fabric/)
-    
+
+**Canais e Playlists - PT-BR**
+
 [Canal do Sidney Cerqueira](https://www.youtube.com/@SidneyCirqueira)
-    
+
+[Canal do Tiago Dantas](https://www.youtube.com/watch?v=IlT2OW5ZlbY&list=PLEG7l1mtwYp2z5TKhruvCVP5LGuyzm4UG&ab_channel=ElementoTecnologiaeDesenvolvimento)
+
   </details>
 </details>
 
