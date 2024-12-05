@@ -67,6 +67,10 @@ Seguem alguns links úteis para a prova:
 
 [Canal do Tiago Dantas](https://www.youtube.com/watch?v=IlT2OW5ZlbY&list=PLEG7l1mtwYp2z5TKhruvCVP5LGuyzm4UG&ab_channel=ElementoTecnologiaeDesenvolvimento)
 
+**Canais e Playlists - EN-US**
+
+[Learn Microsoft Fabric with Will](https://www.youtube.com/watch?v=yfeu9GJ_p6s&list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS&ab_channel=LearnMicrosoftFabricwithWill)
+
   </details>
 </details>
 
