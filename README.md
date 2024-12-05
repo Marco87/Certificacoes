@@ -73,6 +73,8 @@ Seguem alguns links úteis para a prova:
 
 [Learn Microsoft Fabric with Will](https://www.youtube.com/watch?v=yfeu9GJ_p6s&list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS&ab_channel=LearnMicrosoftFabricwithWill)
 
+[CloudFitness](https://www.youtube.com/watch?v=iHnCRFdOUVk&list=PLtlmylp_ZK5wtwY19vxlnn4SXNoaLLU-H&ab_channel=CloudFitness)
+
   </details>
 </details>
 
