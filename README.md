@@ -67,11 +67,11 @@ Seguem alguns links úteis para a prova:
 
 [Canal do Tiago Dantas](https://www.youtube.com/watch?v=IlT2OW5ZlbY&list=PLEG7l1mtwYp2z5TKhruvCVP5LGuyzm4UG&ab_channel=ElementoTecnologiaeDesenvolvimento)
 
-[BI Consulting Pro](https://www.youtube.com/watch?v=qK5_snfqGSM&list=PLp4MAoTwZIfcrbEAKMWBHIvlX1H5y7Vwz&ab_channel=BIConsultingPro)
-
 **Canais e Playlists - EN-US**
 
 [Learn Microsoft Fabric with Will](https://www.youtube.com/watch?v=yfeu9GJ_p6s&list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS&ab_channel=LearnMicrosoftFabricwithWill)
+
+[BI Consulting Pro](https://www.youtube.com/watch?v=qK5_snfqGSM&list=PLp4MAoTwZIfcrbEAKMWBHIvlX1H5y7Vwz&ab_channel=BIConsultingPro)
 
 [CloudFitness](https://www.youtube.com/watch?v=iHnCRFdOUVk&list=PLtlmylp_ZK5wtwY19vxlnn4SXNoaLLU-H&ab_channel=CloudFitness)
 
