@@ -63,7 +63,7 @@ Seguem alguns links úteis para a prova:
 
 **Canais e Playlists - PT-BR**
 
-[Canal do Sidney Cerqueira](https://www.youtube.com/@SidneyCirqueira)
+[Canal do Sidney Cirqueira](https://www.youtube.com/@SidneyCirqueira)
 
 [Canal do Tiago Dantas](https://www.youtube.com/watch?v=IlT2OW5ZlbY&list=PLEG7l1mtwYp2z5TKhruvCVP5LGuyzm4UG&ab_channel=ElementoTecnologiaeDesenvolvimento)
 
@@ -102,6 +102,30 @@ Esta é uma certificação introdutória que aborda os principais conceitos e co
 
 <details>
 <summary><strong>DP-203</strong></summary>
+
+Esta certificação aborda o design e a implementação de soluções de dados em Azure, incluindo integração, transformação, armazenamento e análise de dados em serviços como Azure Synapse Analytics, Data Lake, Databricks e outros.
+
+[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/exams/dp-203/)
+
+[Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/exams/dp-203/practice/assessment?assessment-type=practice&assessmentId=49)
+
+**Exercícios**
+
+[Laboratório de exercícios](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
+
+[Laboratório de exercícios - GitHub](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer.pt-br)
+
+**Canais e Playlists - PT-BR**
+
+[Canal do Sidney Cirqueira](https://www.youtube.com/watch?v=aQZq-I_feFw&list=PLNZqHhJp9syXBhdXmwry_8mGhCO8Vm53s&ab_channel=SidneyCirqueira-DominandooMicrosoftFabric)
+
+[Azure Brasil - Comunidade Técnica](https://www.youtube.com/watch?v=qY1W3ls2qtk&ab_channel=AzureBrasil-ComunidadeT%C3%A9cnica)
+
+**Canais e Playlists - EN-US**
+
+[Tybul on Azure](https://www.youtube.com/watch?v=HPYUuBuq1Ns&list=PLuQSde7Xvu7DCRenR1otgxAplTtnzKO9e&ab_channel=TybulonAzure)
+
+[The Tech BlackBoard](https://www.youtube.com/watch?v=mbo43UgIkYc&list=PL0AYtrUw-NRQu89sbJNXPEo0dkBVTujY5&ab_channel=TheTechBlackBoard)
 
 </details>
 
