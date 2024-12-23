@@ -79,6 +79,8 @@ Seguem alguns links úteis para a prova:
   <details>
 <summary><strong>PL-900</strong></summary>
 
+Esta é uma certificação introdutória que aborda os principais conceitos e componentes da Power Platform, como Power BI, Power Apps, Power Automate e Power Virtual Agents, destacando suas integrações e benefícios para a automação de processos e análise de dados.
+
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/practice/assessment?assessment-type=practice&assessmentId=34&practice-assessment-type=certification)
@@ -93,6 +95,8 @@ Seguem alguns links úteis para a prova:
 **Canais e Playlists - EN-US**
 
 [PL-900 Microsoft Power Platform Fundamentals Study Cram - John Savill's Technical Training](https://www.youtube.com/watch?v=lbPHM-MiEUA&t=20s&ab_channel=JohnSavill%27sTechnicalTraining)
+
+[PL-900 Exam - A Guide To Cloud](https://www.youtube.com/watch?v=iEYJ7feM_TM&list=PLhLKc18P9YOAw_Iuo68yy47_HDoH7AT1N&ab_channel=AGuideToCloud)
 
 </details>
 </details>
