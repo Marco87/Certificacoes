@@ -79,9 +79,20 @@ Seguem alguns links úteis para a prova:
   <details>
 <summary><strong>PL-900</strong></summary>
 
-[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/training/powerplatform/](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification)
+[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/practice/assessment?assessment-type=practice&assessmentId=34&practice-assessment-type=certification)
+
+**Canais e Playlists - PT-BR**
+
+[Power Apps na Prática - Danilo Ciciliotti](https://www.youtube.com/watch?v=GjSIJCDWmJk&ab_channel=PowerAppsnaPr%C3%A1tica-DaniloCiciliotti)
+
+[Questões PL-900 parte 01 - Exame Cloud Play](https://www.youtube.com/watch?v=vesKO9kZbpg&ab_channel=ExameCloudPlay)
+
+
+**Canais e Playlists - EN-US**
+
+[PL-900 Microsoft Power Platform Fundamentals Study Cram - John Savill's Technical Training](https://www.youtube.com/watch?v=lbPHM-MiEUA&t=20s&ab_channel=JohnSavill%27sTechnicalTraining)
 
 </details>
 </details>
