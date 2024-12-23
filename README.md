@@ -99,6 +99,17 @@ Esta é uma certificação introdutória que aborda os principais conceitos e co
 [PL-900 Exam - A Guide To Cloud](https://www.youtube.com/watch?v=iEYJ7feM_TM&list=PLhLKc18P9YOAw_Iuo68yy47_HDoH7AT1N&ab_channel=AGuideToCloud)
 
 </details>
+
+<details>
+<summary><strong>DP-203</strong></summary>
+
+</details>
+
+<details>
+<summary><strong>AZ-204</strong></summary>
+
+</details>
+
 </details>
 
 
