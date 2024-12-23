@@ -76,12 +76,12 @@ Seguem alguns links úteis para a prova:
 [CloudFitness](https://www.youtube.com/watch?v=iHnCRFdOUVk&list=PLtlmylp_ZK5wtwY19vxlnn4SXNoaLLU-H&ab_channel=CloudFitness)
 
   </details>
-</details>
 
-<details>
-    <summary><strong>PL-900</strong></summary>
+  <summary><strong>PL-900</strong></summary>
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/training/powerplatform/](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/practice/assessment?assessment-type=practice&assessmentId=34&practice-assessment-type=certification)
+
 </details>
+
 
