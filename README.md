@@ -132,6 +132,11 @@ Esta certificação aborda o design e a implementação de soluções de dados e
 <details>
 <summary><strong>AZ-204</strong></summary>
 
+[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
+
+[Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&assessmentId=35&practice-assessment-type=certification)
+
+
 </details>
 
 </details>
