@@ -140,6 +140,12 @@ Esta certificação é destinada a desenvolvedores, focada em habilidades para p
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&assessmentId=35&practice-assessment-type=certification)
 
+**Exercícios**
+
+[Laboratório de exercícios](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/)
+
+[GitHub](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure?tab=readme-ov-file)
+
 
 </details>
 
