@@ -57,6 +57,8 @@ Seguem alguns links úteis para a prova:
 
 [Examtopics](https://www.examtopics.com/exams/microsoft/dp-600/)
 
+[CertyIQ](https://certyiq.com/practice-test/)
+
 **Exercícios**
 
 [Laboratório de exercícios](https://microsoftlearning.github.io/mslearn-fabric/)
