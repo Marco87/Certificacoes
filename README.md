@@ -134,6 +134,8 @@ Esta certificação aborda o design e a implementação de soluções de dados e
 <details>
 <summary><strong>AZ-204</strong></summary>
 
+Esta certificação é destinada a desenvolvedores, focada em habilidades para projetar, criar, testar e manter aplicativos e serviços na plataforma Azure. Abrange tópicos como computação, armazenamento, segurança, monitoramento e integração de soluções no ambiente de nuvem.
+
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&assessmentId=35&practice-assessment-type=certification)
