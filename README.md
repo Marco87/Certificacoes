@@ -158,6 +158,18 @@ Esta certificação é uma qualificação introdutória destinada a profissionai
 
 [Simulado da Microsoft](https://learn.microsoft.com/pt-pt/credentials/certifications/exams/sc-900/practice/assessment?assessment-type=practice&assessmentId=11&source=docs)
 
+**Canais e Playlists - PT-BR**
+
+[Canal do Raphael Andrade](https://www.youtube.com/watch?v=BfKZYoE-WhI&list=PLRDE_Sn9kWTNHY5U1_kFxG1rrpCF3_t1K)
+
+[Canal do Marcus Vinícius](https://www.youtube.com/watch?v=7rgljUIssu4&list=PLLmKXx1axFMxbEu75Ihc1ECDSLputnvag&ab_channel=CanalMarcusVin%C3%ADcius)
+
+**Canais e Playlists - EN-US**
+
+[A Guide to Cloud](https://www.youtube.com/watch?v=UHeZnZpmtJM&list=PLhLKc18P9YOCAt0hPdnPavwr9V4ADItcq&ab_channel=AGuideToCloud)
+
+[John Savill's Technical Training](https://www.youtube.com/watch?v=-FJqb60wPSY&ab_channel=JohnSavill%27sTechnicalTraining)
+
 </details>
 
 </details>
