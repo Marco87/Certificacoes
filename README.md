@@ -156,7 +156,7 @@ Esta certificação é uma qualificação introdutória destinada a profissionai
 
 [Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
 
-[Simulado da Microsoft](https://learn.microsoft.com/pt-pt/credentials/certifications/exams/sc-900/practice/assessment?assessment-type=practice&assessmentId=11&source=docs)
+[Simulado da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/exams/sc-900/practice/assessment?assessment-type=practice&assessmentId=11&source=docs)
 
 **Canais e Playlists - PT-BR**
 
