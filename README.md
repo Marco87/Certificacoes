@@ -149,6 +149,17 @@ Esta certificação é destinada a desenvolvedores, focada em habilidades para p
 
 </details>
 
+<details>
+<summary><strong>SC-900</strong></summary>
+
+Esta certificação é uma qualificação introdutória destinada a profissionais que desejam adquirir conhecimento fundamental sobre segurança, conformidade e identidade dentro do ecossistema Microsoft.
+
+[Inscrição e trilha para estudo](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
+
+[Simulado da Microsoft](https://learn.microsoft.com/pt-pt/credentials/certifications/exams/sc-900/practice/assessment?assessment-type=practice&assessmentId=11&source=docs)
+
+</details>
+
 </details>
 
 
